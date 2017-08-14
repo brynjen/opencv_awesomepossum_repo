@@ -34,7 +34,7 @@ publish {
     userOrg = 'brynjen'
     groupId = 'no.nordli'
     repoName = 'no.nordli'
-    artifactId = 'opencv_awesomepossum'
+    artifactId = 'opencv_awesomepossum_repo'
     bintrayUser = properties["bintrayUser"]
     bintrayKey = properties["bintrayKey"]
     publishVersion = VERSION_NAME
